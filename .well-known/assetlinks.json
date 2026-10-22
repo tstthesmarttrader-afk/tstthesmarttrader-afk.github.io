@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tstthesmarttrader_afk.twa",
+    "sha256_cert_fingerprints": ["3D:5D:3A:1E:F0:5A:FE:CC:D6:B1:FC:DA:D6:90:96:4F:2F:2A:75:FF:DA:B0:4F:9A:C6:38:F6:37:8F:94:46:77"]
+  }
+}]
